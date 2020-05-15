@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImplicitIntentDemo.iml" filepath="$PROJECT_DIR$/ImplicitIntentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/ImplicitIntentDemo-app.iml" filepath="$PROJECT_DIR$/app/ImplicitIntentDemo-app.iml" group="ImplicitIntentDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/IntentTest.iml" filepath="$PROJECT_DIR$/IntentTest.iml" group="IntentTest" />
+      <module fileurl="file://$PROJECT_DIR$/app/IntentTest-app.iml" filepath="$PROJECT_DIR$/app/IntentTest-app.iml" group="IntentTest/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyan4-ImplicitIntentDemo.iml" filepath="$PROJECT_DIR$/shiyan4-ImplicitIntentDemo.iml" group="ImplicitIntentDemo" />
+    </modules>
+  </component>
+</project>
