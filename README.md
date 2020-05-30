@@ -14,3 +14,9 @@
 
 # [实验四、Intent](https://github.com/91kennyS/AndroidDev/blob/master/docs/%E5%AE%9E%E9%AA%8C%E5%9B%9B/%E5%AE%9E%E9%AA%8C%E5%9B%9B.md)
 
+
+
+# [期中实验、NotePad笔记本应用](https://github.com/91kennyS/AndroidDev/blob/master/docs/%E6%9C%9F%E4%B8%AD%E5%AE%9E%E9%AA%8C/%E6%9C%9F%E4%B8%AD%E5%AE%9E%E9%AA%8C.md)
+
+
+
